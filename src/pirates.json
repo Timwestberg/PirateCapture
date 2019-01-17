@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy",
+    "image":"https://i.dlpng.com/static/png/293217_preview.png",
+    "count":0
+  },
+  {
+    "id": 2,
+    "name": "Ronoroa Zoro",
+    "image": "https://i.dlpng.com/static/png/316172_preview.png",
+    "count":0
+  },
+  {
+    "id": 3,
+    "name": "Nami",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/8/89/2yearNamiInfobox.png/revision/latest?cb=20150302044759&path-prefix=protagonist",
+    "count":0
+  },
+  {
+    "id": 4,
+    "name": "Ussop",
+    "image": "http://orig11.deviantart.net/6a24/f/2013/345/5/0/usopp_render_by_admin_rosa-d6xleye.png",
+    "count":0
+  },
+  {
+    "id": 5,
+    "name": "Sanji",
+    "image": "https://pngimage.net/wp-content/uploads/2018/06/sanji-png-2.png",
+    "count":0
+  },
+  {
+    "id": 6,
+    "name": "Nico Robin",
+    "image": "http://3.bp.blogspot.com/_3sU0MnRawMI/TQNqzYJoLOI/AAAAAAAACIs/Lro_TsIWSnU/s1600/nico%2Brobin%2B10.png",
+    "count":0
+  },
+  {
+    "id": 7,
+    "name": "Brooke",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/9/95/Brook_Movie_12_Second_Outfit.png/revision/latest?cb=20130429200403",
+    "count":0
+  },
+  {
+    "id": 8,
+    "name": "Tony Tony Chopper",
+    "image": "https://i.pinimg.com/originals/85/13/a0/8513a068f60a7f4efe826ce3bd78ff5a.png",
+    "count":0
+  },
+  {
+    "id": 9,
+    "name": "Going Merry",
+    "image": "https://mvmodelling.files.wordpress.com/2015/05/going_merry.png",
+    "count":0
+  },
+  {
+    "id": 10,
+    "name": "Thousand Sunny",
+    "image": "https://i.pinimg.com/originals/52/42/c0/5242c019a09d678100bd3b68a3bff589.png",
+    "count":0
+  },
+  {
+    "id": 11,
+    "name": "Gol D. Roger",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/f/f4/Gol_D._Roger.png/revision/latest?cb=20181016041527",
+    "count":0
+  },
+  {
+    "id": 12,
+    "name": "Portgas D. Ace",
+    "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/b/b5/Portgas_D_Ace.png/revision/latest?cb=20151024035923",
+    "count":0
+  }
+]
